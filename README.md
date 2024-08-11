@@ -14,18 +14,10 @@ The **Employee Management System** is a desktop application built using Python's
 - **Responsive UI:** Easy-to-use and visually appealing user interface designed with Tkinter.
 - **Error Handling:** Alerts and error messages for invalid inputs and database operations.
 
-## Installation
 
 ### Prerequisites
 
 - Python 3.x
 - MySQL Server
-- Required Python Libraries (listed in `requirements.txt`)
+- Required Python Libraries (tkinter,pyinstaller,pandas,pymysql)
 
-### Setup
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/yourusername/Employee-Management-System.git
-   cd Employee-Management-System
